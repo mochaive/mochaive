@@ -13,5 +13,5 @@
 - UI/UX 디자인 (Adobe XD)
 
 #### 😑 저에 대해 더 알고 싶으시다면 여기로 오세요!
-- Facebook : https://www.facebook.com/whoisStarBox
-- Medium : https://medium.com/@whoisstarbox
+- Facebook : https://www.facebook.com/imstarbox
+- Medium : https://medium.com/@imstarbox
