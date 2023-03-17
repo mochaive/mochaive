@@ -17,6 +17,5 @@
 - 숭실대학교 소프트웨어학부 (2022~)
 
 #### 😑 저에 대해 더 알고 싶으시다면 여기로 오세요!
-- Medium : https://imstarbox.medium.com
-- Facebook : https://www.facebook.com/imstarbox
-- Email: imstarbox.dev@gmail.com
+- Medium : https://cafemocha.medium.com
+- Email: cafemocha.dev@gmail.com
