@@ -18,4 +18,4 @@
 
 #### 😑 저에 대해 더 알고 싶으시다면 여기로 오세요!
 - Medium : https://cafemocha.medium.com
-- Email: cafemocha.dev@gmail.com
+- Email: mochaive.dev@gmail.com
