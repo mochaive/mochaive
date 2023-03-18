@@ -17,5 +17,5 @@
 - 숭실대학교 소프트웨어학부 (2022~)
 
 #### 😑 저에 대해 더 알고 싶으시다면 여기로 오세요!
-- Medium : https://cafemocha.medium.com
-- Email: mochaive.dev@gmail.com
+- Medium : https://mochaive.medium.com
+- Email: cafemocha.dev@gmail.com
