@@ -9,7 +9,7 @@
 #### 🧑🏻‍💻 제가 할 줄 아는 것은..
 - Main: Android(Kotlin, Java), UX Design
 - Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, MySQL
-- Studying: Flutter, iOS(Swift), Kotlin functional Programming(Algorithm)
+- Studying: Kotlin functional Programming(Algorithm)
 
 #### 🏫 지금까지 어디를 다녔냐면..
 - 한국디지털미디어고등학교 해킹방어과 (2018~2020)
