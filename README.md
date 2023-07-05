@@ -4,7 +4,7 @@
 - Android Application 개발자에요.
 - Kotlin을 사랑합니다 ❤️
 - 서비스 창업에 굉장히 관심이 많아요!
-- Clean Code, Clean Architecture에 관심이 아주 많아요!
+- Project Managing에도 관심이 아주 많아요!
 
 #### 🧑🏻‍💻 제가 할 줄 아는 것은..
 - Main: Android(Kotlin, Java), UX Design
