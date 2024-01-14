@@ -1,12 +1,13 @@
 ## Android Application Programmer
 
 ### 🧑🏻‍💻 Skills
-- Main: Android(Kotlin, Java), UX Design, Firebase
+- Main: Android(Kotlin, Java), Firebase
 - Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, MySQL
 - Studying: SvelteKit, Supabase
 
 ### 🤩 Interests
 - Project Managing
+- UI/UX Design
 - Startup
 - Productivity Tools
 
