@@ -1,19 +1,19 @@
 ## Android Application Programmer
 
-#### 🧑🏻‍💻 Skills
+### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), UX Design, Firebase
 - Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, MySQL
 - Studying: SvelteKit, Supabase
 
-#### 🤩 Interests
+### 🤩 Interests
 - Project Managing
 - Startup
 - Productivity Tools
 
-#### 🏫 Education
+### 🏫 Education
 - Korea Digital Media High School - Major in Hacking Defense
 - Soongsil University - School of Software
 
-#### 😑 Others
+### 😶 Others
 - Blog: https://blog.mochaive.dev
 - Email: cafemocha.dev@gmail.com
