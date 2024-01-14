@@ -1,4 +1,4 @@
-### Android Application Programmer
+## Android Application Programmer
 
 #### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), UX Design, Firebase
