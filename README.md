@@ -3,7 +3,7 @@
 ### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), Firebase
 - Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, MySQL
-- Studying: Flutter, Spring Boot, HTMX
+- Studying: Flutter, Spring Boot, SvelteKit
 
 ### 🤩 Interests
 - Project Managing
