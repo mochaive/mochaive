@@ -16,5 +16,5 @@
 - Soongsil University - School of Software
 
 ### 😶 Others
-- Blog: https://blog.mochaive.dev
+- Blog: https://blog.mochaive.com
 - Email: cafemocha.dev@gmail.com
