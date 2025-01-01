@@ -3,7 +3,7 @@
 ### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), Firebase, MySQL
 - Sub: Node.js(JavaScript, TypeScript), Express, MongoDB
-- Studying: Compose Multiplatform, Kotlin Multiplatform(KMP), SvelteKit
+- Studying: Compose Multiplatform, Kotlin Multiplatform(KMP)
 
 ### 🤩 Interests
 - Project Managing
