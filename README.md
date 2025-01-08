@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), Firebase, MySQL
-- Sub: Node.js(JavaScript, TypeScript), Express, MongoDB
+- Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, Flutter
 - Studying: Compose Multiplatform, Kotlin Multiplatform(KMP)
 
 ### 🤩 Interests
