@@ -1,8 +1,8 @@
 ## Android Application Programmer
 
 ### 🧑🏻‍💻 Skills
-- Main: Android(Kotlin, Java), Firebase, MySQL
-- Sub: Node.js(JavaScript, TypeScript), Express, MongoDB, Flutter
+- Main: Android(Kotlin, Java), Flutter, MySQL
+- Sub: Node.js(JavaScript, TypeScript), Express, MongoDB
 - Studying: Compose Multiplatform, Kotlin Multiplatform(KMP)
 
 ### 🤩 Interests
