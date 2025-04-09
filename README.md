@@ -1,4 +1,4 @@
-## Android Application Programmer
+## Mobile Application Developer
 
 ### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), Flutter, MySQL
