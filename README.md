@@ -1,4 +1,4 @@
-## Mobile Application Developer
+## Founder/Maker
 
 ### 🧑🏻‍💻 Skills
 - Main: Android(Kotlin, Java), Flutter, MySQL
