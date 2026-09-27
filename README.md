@@ -31,6 +31,5 @@ I'm happiest when there's a blank file open and an idea worth chasing.
 
 ### 📬 Elsewhere
 
-- 🌐 [mochaive.com](https://mochaive.com) · portfolio & index
-- ✍️ [blog.mochaive.com](https://blog.mochaive.com) · writing on products, tools, and building
+- 🌐 [mochaive.com](https://mochaive.com) · portfolio & writing on products, tools, and building
 - 📮 [mochaive.x@gmail.com](mailto:mochaive.x@gmail.com)
